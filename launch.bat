@@ -1,0 +1,1 @@
+%CD%/Release/RayTracerTest.exe -depth 3 -width 1920 -height 1080
